@@ -1,62 +1,81 @@
-# AI Handoff: Secret Manifestation Cards Game
+# AI Handoff: Secret Manifestation Cards
 
-## Current State
+## Branch To Use
 
-This folder currently contains a local card database and a styled viewer for "The Secret Manifestation Cards".
+If you are another AI or developer picking this up, start from:
 
-Files of interest:
+- `card-result-background-only`
 
-- `secret_oracle_v6.html`: Latest version with Traditional Chinese UI, improved aesthetics, and question input.
-- `cards_viewer.html`: Original database viewer UI.
-- `database/cards.json`: card data with titles, text, border colors, and source image references
-- `database/cards.csv`: CSV export of the same data
-- `database/cards.sqlite`: SQLite copy of the card database
-- `assets/original-card-background.png`: generated original card background asset
-- `source_images/`: reference photos used while cataloging cards
+That is the current preferred publish branch.
 
-## What The User Wants Next
+Do not assume `main`, `ritual-game-redesign`, or other experiment branches reflect the preferred user-facing version.
 
-Build this into a game-like app for mobile and web.
+## Current Approved UX
 
-The core idea:
+The user currently prefers:
 
-- user asks a question
-- app randomly draws one card
-- app reveals the card
-- app explains the meaning / prompt for that card
-- mobile experience should be first-class, with a web interface too
+- the older front page layout style
+- the older library layout style
+- Traditional Chinese UI
+- the reveal card page to stay mostly dark
+- only a subtle warm glow on the reveal page background
 
-The vibe should feel like a devotional / oracle-style card draw app, not a plain database.
+The reveal page background should not become the main visual focus.
+The card itself remains the main focus.
 
-## Important UI Notes From The User
+## Files That Matter
 
-- hide source image links or make them very subtle
-- do not show internal numbering on the card face
-- do not show border-color metadata on the card face
-- long titles should be handled more elegantly
-- card titles should feel more like the original deck layout
-- the main focus should be the drawn card experience, not the catalog view
+- `index.html`
+  Redirect entry for GitHub Pages
+- `secret_oracle_v6.html`
+  Current app UI and interaction logic
+- `database/cards.json`
+  Current card content source of truth
+- `database/cards.csv`
+  CSV export
+- `database/cards.sqlite`
+  SQLite export
 
-## Suggested Next Build
+## Important Content Notes
 
-1. Replace the current catalog grid with a single-card draw flow.
-2. Add a question input and a draw button.
-3. Animate shuffling / random selection.
-4. Show the drawn card full screen or in a strong card panel.
-5. Show a short explanation, guidance, and optional reflection prompt.
-6. Make the layout responsive for mobile first.
-7. Keep the database behind the scenes as the deck source.
+- Keep original card wording unless the user explicitly asks to correct or restore a specific card.
+- The card `SMC-007` / `意念會化為現實` was explicitly restored and should remain:
 
-## Data Model Hint
+  你想要什麼就告訴宇宙，
+  只要想著你要什麼就行了。
+  然後宇宙會立刻安排人物、狀況、事件，
+  來讓你得到它。
+  你唯一的工作就是在心裡一直想著，
+  直到它到你手中為止。
 
-Keep using the existing JSON database, but the game layer should probably add:
+- Do not casually rewrite card text just to fix wrapping. Fix layout first.
 
-- `drawId`
-- `question`
-- `drawnCardId`
-- `readingText`
-- `timestamp`
+## UI Guardrails
 
-## Caution
+- Do not redesign the front page unless the user explicitly asks.
+- Do not swap button assets casually; the user is sensitive to unintended English/Chinese regressions.
+- Do not make reveal-page background treatments too obvious.
+- Avoid adding large new controls unless requested.
 
-If you keep using the card titles and text from the existing deck, check the copyright situation before publishing publicly. For private use and prototyping, the current structure is fine as a working draft.
+## Hosting Notes
+
+The simplest publish path is GitHub Pages from:
+
+- branch: `card-result-background-only`
+- folder: `/ (root)`
+
+Because `index.html` exists, the shared root URL can open directly.
+
+## Safe Next Changes
+
+- small reveal-page typography tuning
+- card content corrections when explicitly provided by the user
+- hosting setup / Pages publishing
+- subtle spacing fixes
+
+## Changes To Avoid Without Permission
+
+- front page redesign
+- library redesign
+- replacing Chinese assets with English ones
+- major reveal-page restyling
