@@ -13,16 +13,22 @@
     "needs_review_cards": 0,
     "uncertain_sightings": 4,
     "estimated_missing_cards": 15,
-    "source_images": 12
+    "source_images": 12,
+    "restored_text_only_cards": 10
   },
   "cards": [
     {
       "id": "SMC-001",
       "title_zh": "感恩之情就是財富",
-      "visible_text": "「每日的感恩練習，是財富降臨你身上的管道之一。」\n\n——華勒思·華特斯（Wallace D. Wattles），\n《失落的致富經典》作者",
-      "border_colors": ["green"],
+      "visible_text": "「每日的感恩練習，是財富降臨你身上的管道之一。」\n——華勒思·華特斯（Wallace D. Wattles），《失落的致富經典》作者",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/01_green_gratitude.jpg", "source_images/08_table_green.webp"],
+      "source_images": [
+        "source_images/01_green_gratitude.jpg",
+        "source_images/08_table_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.99,
       "status": "collected"
@@ -30,10 +36,14 @@
     {
       "id": "SMC-002",
       "title_zh": "這個世界需要你的快樂",
-      "visible_text": "苦難或不幸的人生無法幫助這個世界。你被剝奪最想要的東西，這樣的生活也無助於這個世界。但你的快樂、你的豐盛和你充實的人生，可以讓整個世界都振奮起來。",
-      "border_colors": ["red"],
+      "visible_text": "苦難或不幸的人生無法幫助這個世界。\n你被剝奪最想要的東西，\n這樣的生活也無助於這個世界。\n但你的快樂、你的豐盛和你充實的人生，\n可以讓整個世界都振奮起來。",
+      "border_colors": [
+        "red"
+      ],
       "border_color": "red",
-      "source_images": ["source_images/03_promo_overview.jpg"],
+      "source_images": [
+        "source_images/03_promo_overview.jpg"
+      ],
       "visibility": "clear",
       "confidence": 0.95,
       "status": "collected"
@@ -41,10 +51,15 @@
     {
       "id": "SMC-003",
       "title_zh": "今天來創造你的明天",
-      "visible_text": "這是在床上就能進行的強效練習：醒睜、回顧當天的美好時刻，愛心地表示感謝。想想明天，並計劃把明天活成人生中最精采的一天。",
-      "border_colors": ["green"],
+      "visible_text": "這是在床上就能進行的強效儀式：\n每晚，回顧當天的美好時刻，\n衷心地表示感謝。\n想想隔天，並計劃把隔天活成\n人生中最精采的一天。\n當你醒來時，在你起床之前，\n再次宣告你的今日計畫，\n並將今天當做已經過得很精采般\n來表達你的謝意。",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/03_promo_overview.jpg", "source_images/08_table_green.webp"],
+      "source_images": [
+        "source_images/03_promo_overview.jpg",
+        "source_images/08_table_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.94,
       "status": "collected"
@@ -52,10 +67,15 @@
     {
       "id": "SMC-004",
       "title_zh": "我有覺察嗎？",
-      "visible_text": "要加強覺知，就停下來問自己：「我現在在想什麼？我現在有什麼感覺？」或者，你也可以問自己：「我有覺察嗎？」一旦你這麼問，你就開始覺察了，因為你把你的意念帶回了當下。",
-      "border_colors": ["pink"],
+      "visible_text": "要加強覺知，就停下來問自己：\n「我現在在想什麼？我現在有什麼感覺？」\n或者，你也可以問自己：「我有覺察嗎？」\n一旦你這麼問，你就開始覺察了，\n因為你把你的意念帶回了當下。",
+      "border_colors": [
+        "pink"
+      ],
       "border_color": "pink",
-      "source_images": ["source_images/03_promo_overview.jpg", "source_images/11_table_pink_white.webp"],
+      "source_images": [
+        "source_images/03_promo_overview.jpg",
+        "source_images/11_table_pink_white.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.98,
       "status": "collected"
@@ -63,21 +83,30 @@
     {
       "id": "SMC-005",
       "title_zh": "改變意念，改變未來",
-      "visible_text": "每天入睡前，回顧這一天的經歷。如果有不如意的事件，就在腦中用你想要的方式重新演練一遍。現在，你已經徹底改變了你的未來。",
-      "border_colors": ["blue_green"],
+      "visible_text": "每天入睡前，回顧這一天的經歷。\n如果有不如意的事件，就在腦中用你想要的方式重新演繹一遍。\n現在，你已經徹底改變了你的未來。",
+      "border_colors": [
+        "blue_green"
+      ],
       "border_color": "blue_green",
-      "source_images": ["source_images/03_promo_overview.jpg", "source_images/05_table_blue_green.webp"],
+      "source_images": [
+        "source_images/03_promo_overview.jpg",
+        "source_images/05_table_blue_green.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.96,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-006",
       "title_zh": "感恩具有強大的實現力",
       "visible_text": "請記住：想倍增力大或小，是你決定的。不斷感恩引來更多天地，不斷帶可引來更多美好。",
-      "border_colors": ["burgundy"],
+      "border_colors": [
+        "burgundy"
+      ],
       "border_color": "burgundy",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.86,
       "status": "collected",
@@ -87,9 +116,13 @@
       "id": "SMC-007",
       "title_zh": "意念會化為現實",
       "visible_text": "",
-      "border_colors": ["burgundy"],
+      "border_colors": [
+        "burgundy"
+      ],
       "border_color": "burgundy",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "partial",
       "confidence": 0.9,
       "status": "collected"
@@ -98,9 +131,13 @@
       "id": "SMC-008",
       "title_zh": "免於焦慮",
       "visible_text": "一切都聽從吸引力法則向你展現有意義的一切。如果你要焦慮和憂慮，你想要的事物會來嗎？那就做出這個選擇：「我總是無阻的。」",
-      "border_colors": ["burgundy"],
+      "border_colors": [
+        "burgundy"
+      ],
       "border_color": "burgundy",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.82,
       "status": "collected"
@@ -108,10 +145,14 @@
     {
       "id": "SMC-009",
       "title_zh": "你的職責在於自己",
-      "visible_text": "你無法替他人創造人生。你不能幫別人思考，如果你強加自己的意見在別人身上，你就會吸引同樣的遭遇發生在自己身上。所以讓別人去開創他們想要的生活吧，把你無窮無盡的力量集中用來創造你自己最精采的人生。",
-      "border_colors": ["burgundy"],
+      "visible_text": "你無法替他人創造人生。\n你不能幫別人思考，\n如果你強加自己的意見在別人身上，\n你就會吸引同樣的遭遇發生在自己身上。\n所以讓別人去開創他們想要的生活吧，\n把你無窮無盡的力量集中用來\n創造你自己最精采的人生。",
+      "border_colors": [
+        "burgundy"
+      ],
       "border_color": "burgundy",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.95,
       "status": "collected"
@@ -119,21 +160,29 @@
     {
       "id": "SMC-010",
       "title_zh": "你生來就是創作者",
-      "visible_text": "你在這顆輝煌燦爛的行星上，擁有開創人生的奇妙力量。你自己創造的體驗沒有極限，你的心念是不受限制的。",
-      "border_colors": ["blue"],
+      "visible_text": "你在這顆輝煌燦爛的行星上，\n擁有開創人生的奇妙力量。\n你自己創造的體驗沒有極限，\n你的心念是不受限制的。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.95,
       "status": "collected"
     },
     {
       "id": "SMC-011",
-      "title_zh": "沒有限制，沒有欠缺",
-      "visible_text": "如果你有這個意識，很可能你在人生中體驗到限制和匱乏。你的心思是過著一切美好的創造力，怎麼會有任何缺乏呢？不可能的！你有無限的念力，所以能化無限的意念為現實。",
-      "border_colors": ["blue"],
+      "title_zh": "沒有限制、沒有欠缺",
+      "visible_text": "不要誤以為一切都來自外在世界。\n如果你有這種誤會，\n很可能會在人生中體驗到限制和匱乏。\n你的心思是一切背後的創造力，\n怎麼還會有任何缺乏呢？不可能的！\n你有無限的念力，\n所以能化無限的意念為現實。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.92,
       "status": "collected"
@@ -141,10 +190,14 @@
     {
       "id": "SMC-012",
       "title_zh": "專注於解決問題",
-      "visible_text": "當你抗拒目前的處境，你就給予這個處境更多能量和力量。這個事件或狀況只會越來越大，因為這是宇宙的法則. 要讓這個你不想要的情況變小，就把你的能量和力量集中在你想要的境遇上。",
-      "border_colors": ["blue"],
+      "visible_text": "當你抗拒目前的處境，\n你就賦予這個處境更多能量和力量。\n這個事件或狀況只會愈來愈大，\n因為這是宇宙法則。\n要讓這個你不想要的情況變小，\n就把你的能量和力量集中在\n你想要的境遇上。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.94,
       "status": "collected"
@@ -152,10 +205,14 @@
     {
       "id": "SMC-013",
       "title_zh": "改變心念，改變人生",
-      "visible_text": "",
-      "border_colors": ["blue"],
+      "visible_text": "不管你曾經實現了什麼，你都可以改變它\n——只需要一個微小的正面心念，\n然後再想下一個。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/05_table_blue_green.webp"],
+      "source_images": [
+        "source_images/05_table_blue_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.9,
       "status": "collected"
@@ -163,32 +220,44 @@
     {
       "id": "SMC-014",
       "title_zh": "只要專注於豐盛",
-      "visible_text": "",
-      "border_colors": ["blue"],
+      "visible_text": "宇宙為你備好了豐盛，你的工作並不是搞清楚金錢要「怎麼」來到你的生命中。\n你的工作是提出要求，相信你已經收到了，並且現在就感覺快樂。至於怎麼把豐盛帶到你生命中，這些細節就交給宇宙。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/05_table_blue_green.webp"],
+      "source_images": [
+        "source_images/05_table_blue_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.9,
       "status": "collected"
     },
     {
       "id": "SMC-015",
-      "title_zh": "金錢願望不是努力地朝我而來",
-      "visible_text": "",
-      "border_colors": ["blue"],
+      "title_zh": "金錢輕鬆不費力地朝我而來",
+      "visible_text": "如果你過去一直以為金錢只能透過工作而來，那就放掉這個念頭吧。你只要繼續那樣想，就一定會有同樣的經歷，你理解嗎？現在就調整你的金錢觀吧。\n金錢可以從所有方向、任何方向來到你身邊！",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/05_table_blue_green.webp"],
-      "visibility": "partial",
-      "confidence": 0.62,
+      "source_images": [
+        "source_images/05_table_blue_green.webp"
+      ],
+      "visibility": "clear",
+      "confidence": 0.98,
       "status": "needs_review"
     },
     {
       "id": "SMC-016",
       "title_zh": "幸福會吸引你想要的一切",
-      "visible_text": "",
-      "border_colors": ["blue"],
+      "visible_text": "想要獲得人生渴望的一切，\n捷徑就是現在就要開心起來並感覺快樂！\n這是吸引金錢和實現願望最快的方法。\n這些快樂的感覺會散播出去，\n為你吸引所有能讓你快樂幸福的一切\n回到你的生命中，\n不僅包括豐盛的錢財，還有你想要的一切。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/05_table_blue_green.webp"],
+      "source_images": [
+        "source_images/05_table_blue_green.webp"
+      ],
       "visibility": "partial",
       "confidence": 0.86,
       "status": "collected"
@@ -196,10 +265,14 @@
     {
       "id": "SMC-017",
       "title_zh": "感恩是實現心願的快速通道",
-      "visible_text": "想要大幅加快經驗實現的速度，就把感恩融合到創造的三個步驟中：要求、相信、接收。進行第一步「要求」時，不滿於口語和要求物的事物。",
-      "border_colors": ["blue"],
+      "visible_text": "想要大幅加快願望成真的速度，\n就把感恩整合到創造的三個步驟中：\n要求、相信、接收。\n進行第一步「要求」時，\n寫下你想要的事物，\n不過每句話都要改寫成這個強大的句型：\n「我很開心也很感激，因為我有……」",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/05_table_blue_green.webp"],
+      "source_images": [
+        "source_images/05_table_blue_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.88,
       "status": "collected"
@@ -207,10 +280,14 @@
     {
       "id": "SMC-018",
       "title_zh": "你的人生就在你手中",
-      "visible_text": "",
-      "border_colors": ["blue"],
+      "visible_text": "「每個覺醒的人，在理解正確思考的力量之後，都會做出這樣的結論：人可以改變自己……並主宰自己的命運。」\n——克里斯蒂安·D·拉爾森（Christian D. Larson），新思想運動精神領袖",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/06_table_blue.webp"],
+      "source_images": [
+        "source_images/06_table_blue.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.93,
       "status": "collected"
@@ -218,43 +295,59 @@
     {
       "id": "SMC-019",
       "title_zh": "思而後行",
-      "visible_text": "養成習慣，每天都先在腦海中思考人生事件的後果。在你去任何地方、做任何事之前，都讓宇宙之力為你鋪路。你只要在事情思考你要的發展就行了。如此一來，你就是在有意識地開創人生。",
-      "border_colors": ["blue"],
-      "border_color": "blue",
-      "source_images": ["source_images/06_table_blue.webp"],
+      "visible_text": "養成習慣，每天都先在腦海中思考人生事件的後果。\n在你去任何地方、做任何事之前，都讓宇宙之力為你鋪路，你只要在事前思考你想要的發展就行了。如此一來，你就是在有意識地開創人生。",
+      "border_colors": [
+        "blue"
+      ],
+      "border_color": "pink",
+      "source_images": [
+        "source_images/06_table_blue.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.94,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-020",
       "title_zh": "相信你已經收到了",
-      "visible_text": "宇宙不需要時間來實現你的願望。你慢慢得到的不準時，是因為你還不相信。不知道、沒感覺到你已經擁有，這是因為你把自己放在「想要」的頻率上。當你把自己放在「已經擁有」的頻率上，你想要的就會出現。",
-      "border_colors": ["blue_green"],
+      "visible_text": "宇宙不需要時間來實現你的願望。你體驗到的不準時是因為你還不相信、不知道、沒感覺到你已經擁有了。\n這是因為你把自己放在「想要」的頻率上。當你把自己放在「已經擁有」的頻率上，你想要的就會出現。",
+      "border_colors": [
+        "blue_green"
+      ],
       "border_color": "blue_green",
-      "source_images": ["source_images/06_table_blue.webp"],
+      "source_images": [
+        "source_images/06_table_blue.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.92,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-021",
       "title_zh": "人生應該輕鬆不費力",
-      "visible_text": "",
-      "border_colors": ["light_blue"],
+      "visible_text": "當你採取行動讓某件事發生時，會感覺很困難，好像在河中逆流而上。當你採取行動去接收時，會感覺自己順著河中的水流，輕鬆不費力。\n那就是和宇宙順流的感覺。",
+      "border_colors": [
+        "light_blue"
+      ],
       "border_color": "light_blue",
-      "source_images": ["source_images/06_table_blue.webp"],
+      "source_images": [
+        "source_images/06_table_blue.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.93,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-022",
       "title_zh": "吸引力法則一直在聽",
-      "visible_text": "如果你覺得人生很困苦、艱難，根據吸引力法則，你的人生就會變得很困苦、艱難。\n現在就改口：\n\n「人生輕鬆不費力。」\n\n「人生很精采。」\n\n「所有的好事都會降臨在我身上。」\n\n「一切都會順順利利。」",
-      "border_colors": ["blue"],
+      "visible_text": "如果你覺得人生很困苦、艱難，根據吸引力法則，你的人生就會變得很困苦、艱難。\n現在就改口：\n「人生輕鬆不費力。」\n「人生很精采。」\n「所有的好事都會降臨在我身上。」\n「一切都會順順利利。」",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/06_table_blue.webp"],
+      "source_images": [
+        "source_images/06_table_blue.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.98,
       "status": "collected"
@@ -262,10 +355,14 @@
     {
       "id": "SMC-023",
       "title_zh": "善意是雙贏的",
-      "visible_text": "當你對別人懷有善意，你將會體驗到那些善意體驗在你身上. 你不能用惡意傷害別人，你只會傷害自己。如果你對他人抱有善念，猜猜誰會受惠？就是你！",
-      "border_colors": ["blue"],
+      "visible_text": "當你對別人懷有惡意，\n你將會體驗到那些惡意應驗在你身上。\n你不能用惡意傷害別人，\n你只會傷害自己。\n如果你對他人抱有善念，猜猜誰會受惠？\n就是你！",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/06_table_blue.webp"],
+      "source_images": [
+        "source_images/06_table_blue.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.97,
       "status": "collected"
@@ -273,10 +370,14 @@
     {
       "id": "SMC-024",
       "title_zh": "注意力就是一切",
-      "visible_text": "如果你在想某件事、在談論某件事，你就是在邀請這件事來到你的生命中。",
-      "border_colors": ["blue"],
+      "visible_text": "如果你在思考某件事、在談論某件事，\n你就是在邀請這件事來到你的生命中。",
+      "border_colors": [
+        "blue"
+      ],
       "border_color": "blue",
-      "source_images": ["source_images/07_table_teal.webp"],
+      "source_images": [
+        "source_images/07_table_teal.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.96,
       "status": "collected"
@@ -284,10 +385,14 @@
     {
       "id": "SMC-025",
       "title_zh": "多想想你要什麼",
-      "visible_text": "人之所以沒有活在夢想中的人生裡，唯一的原因在於：他們太常想著自己不想要什麼，而不是他們想要什麼。實際上，如果你只想著你要什麼，你就只會得到你所想要的。",
-      "border_colors": ["light_blue"],
+      "visible_text": "人之所以沒有活在夢想中的人生裡，\n唯一的原因在於：\n他們太常想著自己不想要什麼，\n而不是他們想要什麼。\n事實上，如果你只想著你要什麼，\n長此以往，你就只會得到你所想要的。",
+      "border_colors": [
+        "light_blue"
+      ],
       "border_color": "light_blue",
-      "source_images": ["source_images/07_table_teal.webp"],
+      "source_images": [
+        "source_images/07_table_teal.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.95,
       "status": "collected"
@@ -295,10 +400,14 @@
     {
       "id": "SMC-026",
       "title_zh": "在你動念之前……",
-      "visible_text": "「每個意念都成真，除非你用相反的意念去抵消它。」—— 萊斯特・雷文森（Lester Levenson），生命導師",
-      "border_colors": ["light_blue"],
+      "visible_text": "「每個意念都會成真，除非你用相反的意念去抵消它。」\n——萊斯特·雷文森（Lester Levenson），生命導師",
+      "border_colors": [
+        "light_blue"
+      ],
       "border_color": "light_blue",
-      "source_images": ["source_images/07_table_teal.webp"],
+      "source_images": [
+        "source_images/07_table_teal.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.96,
       "status": "collected"
@@ -306,10 +415,14 @@
     {
       "id": "SMC-027",
       "title_zh": "改變人生就靠感恩",
-      "visible_text": "感恩帶來教育，抱怨帶來教育，這是你選擇手中的黃金守則。適用於幸福與健康、人際關係、工作與財富。",
-      "border_colors": ["teal"],
+      "visible_text": "感恩會致富，抱怨會致貧，\n這是你這輩子的黃金守則，\n適用於身體健康、人際關係、工作與財富。",
+      "border_colors": [
+        "teal"
+      ],
       "border_color": "teal",
-      "source_images": ["source_images/07_table_teal.webp"],
+      "source_images": [
+        "source_images/07_table_teal.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.86,
       "status": "collected"
@@ -317,21 +430,29 @@
     {
       "id": "SMC-028",
       "title_zh": "你擁有無懈可擊的健康",
-      "visible_text": "",
-      "border_colors": ["teal"],
+      "visible_text": "消除疾病的途徑，並不是打倒病魔。你想什麼，就會吸引什麼，所以如果你一直想著要打倒病魔，那麼你就會吸引更多病魔。將你的所言所思都專注於健康和幸福上，並想像自己完全健康幸福的模樣。",
+      "border_colors": [
+        "teal"
+      ],
       "border_color": "teal",
-      "source_images": ["source_images/07_table_teal.webp"],
+      "source_images": [
+        "source_images/07_table_teal.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.96,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-029",
       "title_zh": "珍惜會強化人際關係",
-      "visible_text": "想要讓一段很難經營的關係變得更好，我們就要把注意力集中在欣賞對方。當我們抱怨一段關係時，就只會吸引更多想要抱怨的事情。在接下來的 28 天裡，寫下你欣賞對方的所有事情，每天都多寫一點點，你將會看到你的珍惜如何化腐朽為神奇。",
-      "border_colors": ["green"],
+      "visible_text": "想要讓一段很難經營的關係變得更好，\n我們就要把注意力集中在欣賞對方。\n當我們抱怨一段關係時，\n就只會吸引更多想要抱怨的事情。\n在接下來的 28 天裡，\n寫下你欣賞對方的所有事情，\n每天都多寫一點點，\n你將會看到你的珍惜如何化腐朽為神奇。",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/07_table_teal.webp"],
+      "source_images": [
+        "source_images/07_table_teal.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.96,
       "status": "collected"
@@ -339,21 +460,29 @@
     {
       "id": "SMC-030",
       "title_zh": "數算你的祝福",
-      "visible_text": "養成每天坐下來寫下十項祝福的習慣. 即使你只做這個練習，它也能翻轉你的人生。",
-      "border_colors": ["green"],
+      "visible_text": "養成每天坐下來寫下十項祝福的習慣。\n即使你只做這個練習，\n它也能翻轉你的人生。",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/08_table_green.webp"],
+      "source_images": [
+        "source_images/08_table_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.97,
       "status": "collected"
     },
     {
       "id": "SMC-031",
-      "title_zh": "想要有精彩的一天，就讓早晨充滿感恩之心",
-      "visible_text": "你可以和我一樣，下床走去浴室或廚房的時候，就輕柔而緩慢地步伐，每踏出一步都說「謝謝」。你正在感謝你所擁有的一切、你愛的每一個人，還有今天即將發生的一切好事！",
-      "border_colors": ["green"],
+      "title_zh": "想要有精采的一天，就讓早晨充滿感恩之心",
+      "visible_text": "你可以和我一樣，\n下床走去浴室或廚房的時候\n就踩著感激的步伐，\n每踏出一步都說聲「謝謝」。\n你正在感謝\n你所擁有的一切、你愛的每個人，\n還有今天即將發生的一切好事！",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/08_table_green.webp"],
+      "source_images": [
+        "source_images/08_table_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.94,
       "status": "collected"
@@ -361,21 +490,29 @@
     {
       "id": "SMC-032",
       "title_zh": "現在就選擇幸福",
-      "visible_text": "抗拒可能讓你願望實現。當你不能定自己是否能實現你想要的一切，而開始感到焦慮或偏離時，就是在創造抗拒和阻礙。只要在願望還沒實現之前，現在找到一種感覺幸福快樂的方式，你就可以消除這些創造抗拒、阻礙心願的負面感受。",
-      "border_colors": ["green"],
+      "visible_text": "抗拒會阻礙你的願望實現。當你不確定自己是否能獲得想要的一切，而開始感到焦慮或煩惱時，就是在創造抗拒和阻礙。\n只要在願望還沒實現之前，現在找到一種感覺幸福快樂的方式，你就可以消除這些創造抗拒、阻擋心願的負面感受。",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/08_table_green.webp"],
+      "source_images": [
+        "source_images/08_table_green.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.88,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-033",
       "title_zh": "感激你所擁有的一切",
-      "visible_text": "當你對你所擁有的一切心存感激，你不僅會看到你所擁有的事物越來越多，同時你也會打開一道大門，迎接你渴望的一切，迎來真正幸福圓滿的人生。",
-      "border_colors": ["green"],
+      "visible_text": "當你對你所擁有的一切心存感激，\n你不僅會看到你擁有的事物越來越多，\n同時你也會打開一道大門\n迎接你渴望的一切，\n迎來真正幸福圓滿的人生。",
+      "border_colors": [
+        "green"
+      ],
       "border_color": "green",
-      "source_images": ["source_images/08_table_green.webp"],
+      "source_images": [
+        "source_images/08_table_green.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.97,
       "status": "collected"
@@ -383,21 +520,29 @@
     {
       "id": "SMC-034",
       "title_zh": "你抗拒的一直都在",
-      "visible_text": "顯然不想論你多堅強烈地不想要某事，你都在邀請那件事靠近你。不抗拒你的強烈情緒投放在你想要的事物上，將你想要的事物引向你。",
-      "border_colors": ["yellow_green"],
+      "visible_text": "這表示無論你多麼強烈地不想要某事，\n你都在邀請那件事靠近你。\n不妨把你的強烈情緒投放在\n你想要的事物上，\n將你想要的事物引向你！",
+      "border_colors": [
+        "yellow_green"
+      ],
       "border_color": "yellow_green",
-      "source_images": ["source_images/09_table_olive_yellow.webp"],
+      "source_images": [
+        "source_images/09_table_olive_yellow.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.84,
       "status": "collected"
     },
     {
       "id": "SMC-035",
-      "title_zh": "注意力就是實現力",
-      "visible_text": "加上情緒的專注就是強大的實現力！",
-      "border_colors": ["olive"],
+      "title_zh": "注意力就是實踐力",
+      "visible_text": "加上情緒的專注就是強大的實踐力！",
+      "border_colors": [
+        "olive"
+      ],
       "border_color": "olive",
-      "source_images": ["source_images/09_table_olive_yellow.webp"],
+      "source_images": [
+        "source_images/09_table_olive_yellow.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.95,
       "status": "collected"
@@ -405,10 +550,14 @@
     {
       "id": "SMC-036",
       "title_zh": "過最棒的一天",
-      "visible_text": "你是否為今天做了計畫？還是你打算睡昨天的思緒，繼續主導著今天？以下這些話能帶給你好的開始：今天所有的好事都會降臨到我身上。今天我的願望都能實現. 今天魔法和奇蹟會一直跟隨著我。",
-      "border_colors": ["olive"],
+      "visible_text": "你是否為今天做了計畫？\n還是你打算讓昨天的思緒\n繼續主導著今天？\n以下這些話能帶給你好的開始：\n「今天所有的好事都會降臨到我身上。」\n「今天我的願望都能實現。」\n「今天魔法和奇蹟會一直跟隨著我。」",
+      "border_colors": [
+        "olive"
+      ],
       "border_color": "olive",
-      "source_images": ["source_images/09_table_olive_yellow.webp"],
+      "source_images": [
+        "source_images/09_table_olive_yellow.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.94,
       "status": "collected"
@@ -416,10 +565,14 @@
     {
       "id": "SMC-037",
       "title_zh": "你有能力締造世界和平",
-      "visible_text": "這個世界會變化，我們的地球會變化，如同每個人的內心都在變化，一個人可以影響千萬其他人，他們再次影響千萬人，該千萬人又會影響十億人，我們就是用這個方式為地球帶來和平、和諧。",
-      "border_colors": ["yellow"],
+      "visible_text": "這個世界會變化，我們的地球會變化，\n如同每個人的內心都在變化。\n一個人可以鼓舞許多其他人，\n他們再鼓舞數千人，數千人鼓舞數百萬人，\n數百萬人鼓舞數十億人，\n我們就是用這個方式\n為地球帶來和平、和諧、和睦。",
+      "border_colors": [
+        "yellow"
+      ],
       "border_color": "yellow",
-      "source_images": ["source_images/09_table_olive_yellow.webp"],
+      "source_images": [
+        "source_images/09_table_olive_yellow.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.96,
       "status": "collected"
@@ -427,21 +580,29 @@
     {
       "id": "SMC-038",
       "title_zh": "幸福吸引幸福",
-      "visible_text": "這個公式真是簡單明瞭。你必須現在就感到幸福快樂，才能憑藉吸引力法則，把讓你感到幸福快樂的一切吸引到生命中。",
-      "border_colors": ["orange"],
+      "visible_text": "這個公式就是這麼簡單。你必須現在就感到幸福快樂，才能透過吸引力法則把讓你感到幸福快樂的一切吸引到生命中。",
+      "border_colors": [
+        "orange"
+      ],
       "border_color": "orange",
-      "source_images": ["source_images/10_table_orange_red.webp"],
+      "source_images": [
+        "source_images/10_table_orange_red.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.96,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-039",
       "title_zh": "你的力量就在心中",
-      "visible_text": "當你越想越糟時，運用方法可以讓你停下來：深吸一口氣，把注意力集中在心口，專注感受心中的愛。",
-      "border_colors": ["orange"],
+      "visible_text": "當你越想越糟時，\n這個方法可以讓你馬上停下來：\n深吸一口氣，把注意力集中在心口，\n專注感受心中的愛。\n吐氣的時候依然將注意力集中在心口，\n感受心中的愛。\n重複這個動作總共七次。\n你會感覺更加平靜、更加輕盈，\n負面的想法和感受將會有所停止。",
+      "border_colors": [
+        "orange"
+      ],
       "border_color": "orange",
-      "source_images": ["source_images/10_table_orange_red.webp"],
+      "source_images": [
+        "source_images/10_table_orange_red.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.94,
       "status": "collected"
@@ -449,10 +610,14 @@
     {
       "id": "SMC-040",
       "title_zh": "你的自然狀態就是喜悅",
-      "visible_text": "",
-      "border_colors": ["orange"],
-      "border_color": "orange",
-      "source_images": ["source_images/10_table_orange_red.webp"],
+      "visible_text": "當你感到痛苦時，是不是覺得每一滴精力都被抽乾了？負面的想法和悲慘的感覺需要耗費很多能量。\n而回到喜悅的狀態是如此簡單。只需要一個正面的意念，然後是另一個，再接下去另一個。",
+      "border_colors": [
+        "orange"
+      ],
+      "border_color": "red",
+      "source_images": [
+        "source_images/10_table_orange_red.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.93,
       "status": "collected"
@@ -460,10 +625,14 @@
     {
       "id": "SMC-041",
       "title_zh": "你只需要保持正面和善意",
-      "visible_text": "想要活出最精采的人生，其實很簡單：正面的意念、正面的話語、善意的舉動，就是這樣！",
-      "border_colors": ["orange"],
+      "visible_text": "想要活出最精采的人生，其實很簡單：\n正面的意念、正面的話語、善意的舉動。\n就這樣！",
+      "border_colors": [
+        "orange"
+      ],
       "border_color": "orange",
-      "source_images": ["source_images/10_table_orange_red.webp"],
+      "source_images": [
+        "source_images/10_table_orange_red.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.97,
       "status": "collected"
@@ -471,21 +640,29 @@
     {
       "id": "SMC-042",
       "title_zh": "感謝你所面對的挑戰",
-      "visible_text": "",
-      "border_colors": ["red"],
+      "visible_text": "正是那些人生中最艱難而且顯然很「負面」的事情，讓我們深刻想要改變自己的生活。請心懷感激，因為這些事賦予你力量和決心，讓你想創造不同的際遇，你將會改變你的人生。",
+      "border_colors": [
+        "red"
+      ],
       "border_color": "red",
-      "source_images": ["source_images/10_table_orange_red.webp"],
-      "visibility": "partial",
-      "confidence": 0.88,
+      "source_images": [
+        "source_images/10_table_orange_red.webp"
+      ],
+      "visibility": "clear",
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-043",
-      "title_zh": "金錢不能帶來快樂，但快樂能創造金錢",
-      "visible_text": "如果你一直想著「我需要錢」，那你就會一直吸引「需要錢」的境遇。你現在必須找到不用錢就能快樂的方式，現在就感到心滿意足，沉浸在喜悅中，因為美好的感覺才是把金錢吸引過來的關鍵。",
-      "border_colors": ["red"],
+      "title_zh": "金錢不能帶來快樂——但快樂能創造金錢",
+      "visible_text": "如果你一直想著「我需要錢」，\n那你就會一直吸引「需要錢」的境遇。\n你現在必須找到不用錢就能快樂的方式，\n現在就感到心滿意足、沉浸在喜悅中，\n因為美好的感覺\n才是把金錢吸引過來的關鍵。",
+      "border_colors": [
+        "red"
+      ],
       "border_color": "red",
-      "source_images": ["source_images/10_table_orange_red.webp"],
+      "source_images": [
+        "source_images/10_table_orange_red.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.96,
       "status": "collected"
@@ -493,10 +670,14 @@
     {
       "id": "SMC-044",
       "title_zh": "你是永恆的存在",
-      "visible_text": "看著你周遭的世界。沒有你的話，這一切都不存在。不管你原本對自己有什麼誤會，你現在已經認識真正的自己了。你是宇宙的主人。你是這王國的繼承者。你是生命的完美傑作。",
-      "border_colors": ["white"],
+      "visible_text": "看著你周遭的世界。\n沒有你的話，這一切都不存在。\n不管你原本對自己有什麼誤會，\n你現在已經認識真正的自己了。\n你是宇宙的主人。\n你是這王國的繼承者。\n你是生命的完美傑作。",
+      "border_colors": [
+        "white"
+      ],
       "border_color": "white",
-      "source_images": ["source_images/11_table_pink_white.webp"],
+      "source_images": [
+        "source_images/11_table_pink_white.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.98,
       "status": "collected"
@@ -504,10 +685,14 @@
     {
       "id": "SMC-045",
       "title_zh": "地球為你而轉動",
-      "visible_text": "海洋為你漲潮退潮。鳥兒為你歌唱。太陽為你日升日落. 星星為你閃耀。你所見的一切美好，你所經歷的一切奇妙，都為你而現。",
-      "border_colors": ["pink"],
+      "visible_text": "海洋為你漲潮退潮。鳥兒為你歌唱。\n太陽為你日升日落。星星為你閃耀。\n你所見的一切美好，\n你所經歷的一切奇妙，都為你而現。",
+      "border_colors": [
+        "pink"
+      ],
       "border_color": "pink",
-      "source_images": ["source_images/11_table_pink_white.webp"],
+      "source_images": [
+        "source_images/11_table_pink_white.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.98,
       "status": "collected"
@@ -515,10 +700,14 @@
     {
       "id": "SMC-046",
       "title_zh": "你想什麼，你就成為什麼",
-      "visible_text": "你越常運用自身的力量，就越能吸引它到你身邊。終有一天，你將不再需要練習，因為你就是力量，你就是完美，你就是智慧，你就是聰穎，你就是愛，你就是樂。",
-      "border_colors": ["pink"],
+      "visible_text": "你越常運用自身的力量，\n就越能吸引它到你身邊。\n終有一天，你將不再需要練習，\n因為你就是力量，你就是完美，\n你就是智慧，你就是聰穎，\n你就是愛，你就是樂。",
+      "border_colors": [
+        "pink"
+      ],
       "border_color": "pink",
-      "source_images": ["source_images/11_table_pink_white.webp"],
+      "source_images": [
+        "source_images/11_table_pink_white.webp"
+      ],
       "visibility": "clear",
       "confidence": 0.98,
       "status": "collected"
@@ -526,21 +715,29 @@
     {
       "id": "SMC-047",
       "title_zh": "現在就給自己好心情",
-      "visible_text": "現在就愛開心，現在就感受好心情，這是你唯一需要做的事情。如果這是你從這套牌卡得到的唯一訊息，那麼你已經獲得了《祕密》裡最重要的一部分。",
-      "border_colors": ["pink"],
+      "visible_text": "現在就要開心，現在就感受好心情，這是你唯一需要做的事情。\n如果這是你從這套牌卡得到的唯一訊息，那麼你已經獲得了《秘密》裡最重要的一部分。",
+      "border_colors": [
+        "pink"
+      ],
       "border_color": "pink",
-      "source_images": ["source_images/11_table_pink_white.webp"],
+      "source_images": [
+        "source_images/11_table_pink_white.webp"
+      ],
       "visibility": "clear",
-      "confidence": 0.96,
+      "confidence": 0.98,
       "status": "collected"
     },
     {
       "id": "SMC-048",
       "title_zh": "先從內在活出你的夢想",
       "visible_text": "在你的腦海中看見夢想，在你的心中感受夢想，直到夢想變得無比真實，然後它就會在你的生命中成真。",
-      "border_colors": ["orange"],
+      "border_colors": [
+        "orange"
+      ],
       "border_color": "orange",
-      "source_images": ["source_images/manual_entry"],
+      "source_images": [
+        "source_images/manual_entry"
+      ],
       "visibility": "clear",
       "confidence": 0.99,
       "status": "collected"
@@ -548,10 +745,14 @@
     {
       "id": "SMC-049",
       "title_zh": "別執著在負面的想法",
-      "visible_text": "完全用不著為負面想法煩惱。你只要每天盡可能想著愉快的念頭，就能將負面的念頭抵消。\n\n每天練習，在短短時間內你就能徹底重新訓練你的心思，持續產生正面的想法。",
-      "border_colors": ["light_blue"],
+      "visible_text": "完全用不著為負面想法煩惱。\n你只要每天盡可能想著愉快的念頭，\n就能將負面的念頭抵消。\n每天練習，在短短時間內\n你就能徹底重新訓練你的心思，\n持續產生正面的想法。",
+      "border_colors": [
+        "light_blue"
+      ],
       "border_color": "light_blue",
-      "source_images": ["source_images/manual_entry"],
+      "source_images": [
+        "source_images/manual_entry"
+      ],
       "visibility": "clear",
       "confidence": 0.99,
       "status": "collected"
@@ -559,34 +760,186 @@
     {
       "id": "SMC-050",
       "title_zh": "善意能改變一切",
-      "visible_text": "想要現在就看到你的人生開始好轉嗎？那就成為最善良的自己，去對待你遇見的每個人。",
-      "border_colors": ["yellow"],
+      "visible_text": "想要現在就看到你的人生開始好轉嗎？\n那就成為最善良的自己，\n去對待你遇見的每個人。",
+      "border_colors": [
+        "yellow"
+      ],
       "border_color": "yellow",
-      "source_images": ["source_images/manual_entry"],
+      "source_images": [
+        "source_images/manual_entry"
+      ],
       "visibility": "clear",
       "confidence": 0.99,
       "status": "collected"
+    },
+    {
+      "id": "SMC-051",
+      "title_zh": "你的格局越高，世界越隨你的心意而動",
+      "visible_text": "因為你能思考的善念沒有上限、你能說的好話沒有上限、你能做的善舉沒有上限，所以你的頻率要多高就有多高，沒有上限。\n你的正面頻率會像漣漪一樣，擴散到整個地球和這顆行星上的一切。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "yellow",
+      "source_images": [],
+      "visibility": "clear",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from Manifestation_Cards_Full_Text.txt provided by user."
+    },
+    {
+      "id": "SMC-052",
+      "title_zh": "讓過去留在身後",
+      "visible_text": "如果你專注於過去的難關和困境，你就會吸引更多難關和困境。如果你還耿耿於懷，或繼續責怪過去某個人做了某件事，那麼這股負面能量會傷害到你。\n不管是什麼，都放下吧。為了自己，放下它，然後看著你人生在各方面變得更好。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "red",
+      "source_images": [],
+      "visibility": "clear",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from Manifestation_Cards_Full_Text.txt provided by user."
+    },
+    {
+      "id": "SMC-053",
+      "title_zh": "充沛無虞",
+      "visible_text": "宇宙透過吸引力法則\n向你和所有人提供一切——\n只要你做出選擇。\n你想要讓你和每個人\n都獲得充沛無虞的資源嗎？\n那就做出這個選擇：\n「一切都很豐盛。」\n「供應是無限的。」\n我們每個人都有能力透過意念\n取用無窮無盡、無形無相的資源——\n只要我們做出選擇。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "unknown",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from Manifestation_Cards_Full_Text.txt provided by user."
+    },
+    {
+      "id": "SMC-054",
+      "title_zh": "樂翻天",
+      "visible_text": "利用這個強效的想像技巧，你可以在三十秒內提升自己的頻率，加快願望實現的速度，改變你的人生。\n想像你剛收到你的願望，看到自己開心地跳起來！",
+      "border_colors": [
+        "gold"
+      ],
+      "border_color": "gold",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from additional extracted image text provided by user."
+    },
+    {
+      "id": "SMC-055",
+      "title_zh": "感覺具有強大的實踐力",
+      "visible_text": "請記住：煩惱會引來更多煩惱，不幸會引來更多不幸，恐懼會引來更多恐懼。\n也請你記住：喜悅會引來更多喜悅。幸福會引來更多幸福。愛會吸引更多愛。",
+      "border_colors": [
+        "white_gold"
+      ],
+      "border_color": "white",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from additional extracted image text provided by user."
+    },
+    {
+      "id": "SMC-056",
+      "title_zh": "愛是最強大的力量",
+      "visible_text": "如果你能以愛包裹每一個想法，如果你能愛每個人和每件事，你的人生就會徹底翻轉。",
+      "border_colors": [
+        "pink"
+      ],
+      "border_color": "pink",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from additional extracted image text provided by user."
+    },
+    {
+      "id": "SMC-057",
+      "title_zh": "真正的你",
+      "visible_text": "我很安靜、我很完美、我很喜悅、我有力量、我有愛心、我很和諧、我很快樂。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "unknown",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from user-provided extracted card text."
+    },
+    {
+      "id": "SMC-058",
+      "title_zh": "一切都源於內心",
+      "visible_text": "外在處處是不穩定的世界，這對所有人是一樣。這不是你能掌控的事，你能做的就是改變你的內心。一旦你改變了你的內心感受，你的世界也將跟著改變。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "unknown",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from user-provided extracted card text."
+    },
+    {
+      "id": "SMC-059",
+      "title_zh": "想像力就是實踐力",
+      "visible_text": "壓力、焦躁、和恐懼都是對未來所有想像。你想什麼，你的心就在那。你可以想像美好的事物，那麼你就是在創造一個幸福的未來。下次你恐懼的時候，詢問自己：「我想要什麼？」然後去想像你想要發生的愉快畫面。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "unknown",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from user-provided extracted card text."
+    },
+    {
+      "id": "SMC-060",
+      "title_zh": "寫下你想要實現的秘密",
+      "visible_text": "寫下你想要實現的秘密。在你入睡之前，思考你的意念，合上你的眼。想像並感覺到你想要實現的夢想。想像在第二天醒來的時候，你已經擁有你夢寐以求的未來。",
+      "border_colors": [
+        "unknown"
+      ],
+      "border_color": "unknown",
+      "source_images": [],
+      "visibility": "text_only",
+      "confidence": 1.0,
+      "status": "restored_from_text",
+      "notes": "Restored from user-provided extracted card text."
     }
   ],
   "uncertain_sightings": [
     {
       "title_guess": "一切自然在安然在正軌上",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "reason": "標題細字模糊，暫不列入 confirmed unique count。"
     },
     {
       "title_guess": "金錢富足好能……",
-      "source_images": ["source_images/04_table_burgundy.webp"],
+      "source_images": [
+        "source_images/04_table_burgundy.webp"
+      ],
       "reason": "只見到部分標題。"
     },
     {
       "title_guess": "你的焦點是說，世界感謝你的心靈而動",
-      "source_images": ["source_images/09_table_olive_yellow.webp"],
+      "source_images": [
+        "source_images/09_table_olive_yellow.webp"
+      ],
       "reason": "標題可能讀錯，需要更清晰圖片。"
     },
     {
       "title_guess": "底部中間橄欖色卡牌",
-      "source_images": ["source_images/09_table_olive_yellow.webp"],
+      "source_images": [
+        "source_images/09_table_olive_yellow.webp"
+      ],
       "reason": "被黃色手持卡遮住，未能辨認。"
     }
   ],
